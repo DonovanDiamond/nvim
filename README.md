@@ -2,7 +2,8 @@
 
 ```bash
 sudo apt install neovim
-git clone https://github.com/LazyVim/starter ~/.config/nvim
+git clone https://github.com/DonovanDiamond/nvim ~/.config/nvim
+nvim
 ```
 
 # 💤 LazyVim
